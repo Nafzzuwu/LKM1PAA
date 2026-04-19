@@ -1,6 +1,6 @@
 # LKM 1 PAA - REST API Sistem Perpustakaan Sederhana
 
-**Oleh:** [Nafariel Dwi Ambariyono] - [242410102071]
+**Oleh:** Nafariel Dwi Ambariyono - 242410102071
 
 ---
 
