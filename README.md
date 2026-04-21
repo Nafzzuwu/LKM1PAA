@@ -42,5 +42,5 @@ POST,/api/buku,Menambahkan data buku baru ke dalam database. Membutuhkan body re
 PUT,/api/buku/{id},Memperbarui keseluruhan data buku berdasarkan ID spesifik. Membutuhkan body request berupa format JSON.
 DELETE,/api/buku/{id},Menghapus data buku berdasarkan ID. Menggunakan metode Soft Delete (mengisi field deleted_at tanpa menghapus baris fisik di database).
 
-[VIDEO PRESENTASI]([https://youtube.com/watch?v=12345](https://youtu.be/eL4VUVTZbbA))
+🎥 **[Tonton Video Presentasi LKM 1 PAA di Sini](https://youtu.be/eL4VUVTZbbA)**
 
